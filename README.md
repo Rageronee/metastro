@@ -31,5 +31,5 @@ Fitur ini diimplementasikan menggunakan PIR Motion Sensor yang mendeteksi geraka
 - 100W Bulb
 - Powerbank
 
-# **Tujuan:**
+# 🚀 **Tujuan:**
 Penggunaan Internet of Things (IoT) dalam rumah pintar bertujuan untuk meningkatkan kenyamanan, keamanan, dan efisiensi energi di dalam rumah.
