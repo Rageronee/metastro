@@ -33,6 +33,8 @@ Fitur ini diimplementasikan menggunakan PIR Motion Sensor yang mendeteksi geraka
 
 # 🚀 **Kesimpulan:**
 Proyek Rumah Pintar ini bener-bener bikin hidup lebih seru dan nyaman. Silakan dicoba dan dikembangin sesuai selera Anda. Penggunaan Internet of Things (IoT) dalam rumah pintar bertujuan untuk meningkatkan kenyamanan, keamanan, dan efisiensi energi di dalam rumah. 🏡🚀
+
 ---
+# Screenshot
 ![Screenshot](https://raw.githubusercontent.com/Rageronee/metastro/main/ss%20github%20project%20orang.png)
 ![Screenshot](https://raw.githubusercontent.com/Rageronee/metastro/main/ss%20github.png)
