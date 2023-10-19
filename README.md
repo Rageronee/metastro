@@ -3,10 +3,17 @@
 
 # IoT Smart Home Automation ✨
 
-# ℹ️️ **Pendahuluan:**
+## *Table of Contents*
+* [Pendahuluan](#pendahuluan)
+* [Fitur](#fitur)
+* [Perangkat](#perangkat-yang-digunakan)
+* [Kesimpulan](#kesimpulan)
+
+
+## ℹ️️ **Pendahuluan:**
 IoT Smart Home Automation adalah solusi yang memungkinkan kita mengendalikan perangkat rumah kita melalui ponsel, PC/Laptop, Alexa, Google Assistant, dan Telegram. Proyek ini bahkan menyediakan pengguna untuk memantau konsumsi daya dari perangkat-perangkat tersebut. Tujuan dari IoT Smart Home Automation kami adalah menyediakan alat teknologi bagi mereka yang mengikuti perkembangan teknologi saat ini, dengan berbagai fungsi yang sangat bermanfaat dalam dunia saat ini untuk menghemat dan menggunakan listrik secara efisien.
 
-# 🎨 **Fitur:**
+## 🎨 **Fitur:**
 **Pengguna dapat mengendalikan perangkat rumah dengan cara berikut:**
 - Ponsel
 - PC/Laptop
@@ -22,7 +29,7 @@ IoT Smart Home Automation adalah solusi yang memungkinkan kita mengendalikan per
 **Mode Lampu Pintar:**
 Fitur ini diimplementasikan menggunakan PIR Motion Sensor yang mendeteksi gerakan benda yang bergerak. Jadi ketika seseorang berada dalam jangkauan sensor, lampu akan menyala, sebaliknya akan mati secara otomatis.
 
-# ⚙️ **Perangkat yang Digunakan:**
+## ⚙️ **Perangkat yang Digunakan:**
 - Node-MCU ESP8266
 - Current Sensor ACS712
 - Relay Module
@@ -31,10 +38,10 @@ Fitur ini diimplementasikan menggunakan PIR Motion Sensor yang mendeteksi geraka
 - 100W Bulb
 - Powerbank
 
-# 🚀 **Kesimpulan:**
+## 🚀 **Kesimpulan:**
 Proyek Rumah Pintar ini bener-bener bikin hidup lebih seru dan nyaman. Silakan dicoba dan dikembangin sesuai selera Anda. Penggunaan Internet of Things (IoT) dalam rumah pintar bertujuan untuk meningkatkan kenyamanan, keamanan, dan efisiensi energi di dalam rumah. 🏡🚀
 
 ---
-# Screenshot
+## Screenshot
 ![Screenshot](https://raw.githubusercontent.com/Rageronee/metastro/main/ss%20github%20project%20orang.png)
 ![Screenshot](https://raw.githubusercontent.com/Rageronee/metastro/main/ss%20github.png)
