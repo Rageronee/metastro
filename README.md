@@ -3,13 +3,6 @@
 
 # IoT Smart Home Automation ✨
 
-## *Table of Contents*
-* [Pendahuluan:](#pendahuluan)
-* [Fitur:](#fitur)
-* [Perangkat yang Digunakan](#perangkat-yang-digunakan)
-* [Kesimpulan:](#kesimpulan)
-
-
 ## ℹ️️ **Pendahuluan:**
 IoT Smart Home Automation adalah solusi yang memungkinkan kita mengendalikan perangkat rumah kita melalui ponsel, PC/Laptop, Alexa, Google Assistant, dan Telegram. Proyek ini bahkan menyediakan pengguna untuk memantau konsumsi daya dari perangkat-perangkat tersebut. Tujuan dari IoT Smart Home Automation kami adalah menyediakan alat teknologi bagi mereka yang mengikuti perkembangan teknologi saat ini, dengan berbagai fungsi yang sangat bermanfaat dalam dunia saat ini untuk menghemat dan menggunakan listrik secara efisien.
 
