@@ -4,10 +4,10 @@
 # IoT Smart Home Automation ✨
 
 ## *Table of Contents*
-* [Pendahuluan](#pendahuluan)
-* [Fitur](#fitur)
-* [Perangkat](#perangkat-yang-digunakan)
-* [Kesimpulan](#kesimpulan)
+* [Pendahuluan:](#pendahuluan)
+* [Fitur:](#fitur)
+* [Perangkat yang Digunakan](#perangkat-yang-digunakan)
+* [Kesimpulan:](#kesimpulan)
 
 
 ## ℹ️️ **Pendahuluan:**
